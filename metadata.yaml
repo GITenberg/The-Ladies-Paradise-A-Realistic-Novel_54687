@@ -1,6 +1,9 @@
 _repo: The-Ladies-Paradise-A-Realistic-Novel_54687
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Au bonheur des dames. English
+covers:
+- cover_type: archival
+  image_path: 54687-h/images/cover.jpg
 creator:
   author:
     agent_name: Zola, Émile
@@ -13,6 +16,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
     - http://en.wikipedia.org/wiki/Émile_Zola
 description: 'Sequel to "Piping Hot!" #54686'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54687#The-Ladies-Paradise-A-Realistic-Novel
 gutenberg_issued: '2017-05-08'
 gutenberg_type: Text
 identifiers:
